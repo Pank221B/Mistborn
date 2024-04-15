@@ -1,11 +1,19 @@
 
->date: 2024-04-14
+>**Date:** 2024-04-14
 >
->name: Jeramiah
+>**Name:** Jeramiah
 >
->house:
+>**Organizations:**
 >
->clubs:
+>**Clubs:** 
+>
+>**Friends**
+>
+>**Enemies:**
+
+
+ 
+
 
 
  
