@@ -1,7 +1,6 @@
 
->**Date:** <%tp.date.now("YYYY-MM-DD")%>
->
->**Name:** <%tp.file.title %>
+#plugin/emitter Name 
+> <%tp.file.title %>
 >
 >**Organizations:**
 >

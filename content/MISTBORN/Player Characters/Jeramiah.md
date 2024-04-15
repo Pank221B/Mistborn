@@ -1,7 +1,6 @@
 
->**Date:** 2024-04-14
->
->**Name:** Jeramiah
+#plugin/emitter Name 
+> <%tp.file.title %>
 >
 >**Organizations:**
 >
@@ -13,6 +12,7 @@
 
 
  
+
 
 
 
