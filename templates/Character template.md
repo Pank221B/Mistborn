@@ -1,11 +1,16 @@
+test
 
->date: <%tp.date.now("YYYY-MM-DD")%>
+>**Date:** <%tp.date.now("YYYY-MM-DD")%>
 >
->name: <%tp.file.title %>
+>**Name:** <%tp.file.title %>
 >
->house:
+>**Organizations:**
 >
->clubs:
+>**Clubs:** 
+>
+>**Friends**
+>
+>**Enemies:**
 
 
  
