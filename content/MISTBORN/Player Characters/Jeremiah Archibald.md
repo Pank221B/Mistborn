@@ -1,9 +1,8 @@
-
-> <%tp.file.title %>
-
+# Description
+>
 
 # Organizations
->[[The Orphew Association]] [[House Archibald]] [[House Sinfluer]]
+>--[[The Orphew Association]]--[[House Archibald]]--[[House Sinfluer]]--
 
 # Friends
 >

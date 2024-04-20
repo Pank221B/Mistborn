@@ -3,6 +3,6 @@
 
 >Those who are not criminals are worked to near death in some situations by their masters. Plantation skaa were especially brutalized and often did not live as long as their city counterparts as they were killed if they were unable to work. Only very skilled skaa were able to have a trade and work as a craftsman, although they were still underpaid and looked down upon by the nobility
 
->Skaa maintain a fear of the evening [[Mist]] due to folklore and misinformation spread by the nobles, believing those who go out into the mists are killed and turn into [[Mistwraith]]
+>Skaa maintain a fear of the evening [[Mist]] due to folklore and misinformation spread by the [[Nobles]], believing those who go out into the mists are killed and turn into [[Mistwraith]]
 
 >Skaa living in the outer dominances, far from the Central Dominance, are allowed to own lands and become rich, but the Lord Ruler does not allow this to become publicly known
