@@ -1,15 +1,10 @@
-
 > <%tp.file.title %> <% tp.file.creation_date()%>
 
-
-# Organizations
+# Members
 >
 
-# Friends
+# Associates
 >
 
-# Enemies
+# Description 
 >
-
-
- 
