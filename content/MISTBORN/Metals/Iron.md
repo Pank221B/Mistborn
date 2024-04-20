@@ -1,0 +1,2 @@
+# Description
+>Iron users can pull on metal objects. This effect behaves the way you would expect, If you pull on a light piece of metal it comes to you, if you pull on a heavy piece of metal you come to it. Some Iron users use this to move quickly using the metal-work on the top of buildings.

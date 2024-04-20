@@ -1,0 +1,2 @@
+# Description 
+>Brass is a type of emotional Allomancy. specifically you can suppress the emotion others feel. You can pick specific ones too such as anxiety or joy. great for when you have to break some bad news to someone.

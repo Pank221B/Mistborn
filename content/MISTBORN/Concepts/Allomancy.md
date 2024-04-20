@@ -1,3 +1,4 @@
 # Description
-> Allomancy is how [[Nobles]] [[Mistings]] and [[Mistborn]] get certain abilities via [[Burning]] different metals. Below is a table of the metals Allomancers can use and what they do 
+>**Allomancers**" and have the ability to use or "**burn**" metals to fuel a variety of physical and mental enhancements or abilities. For an additional burst of power, Allomancers can burn their metal quicker (or "**flare**"), consuming it faster but also gaining far greater benefits in return.
+>Allomancers consist of [[Nobles]], [[Mistings]], [[Mistborn]], ???
 
