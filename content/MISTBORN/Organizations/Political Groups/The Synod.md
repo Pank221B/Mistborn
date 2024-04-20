@@ -1,6 +1,5 @@
 # Members
 >???
-
 # Description 
 >The Synod, or **Keepers of Terris**, are the only remaining Feruchemists other than the Lord Ruler and Steel Inquisitors "Steel Ministry". The Synod have one duty, to hold information in their copperminds until the Lord Ruler's fall.
 
