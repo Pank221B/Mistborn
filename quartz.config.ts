@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🐢 MISTBORN",
+    pageTitle: "🐢(^_^)🐢 Mistborn",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -20,9 +20,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
-        header: "Pixelify Sans",
+        header: "Press Start 2P",
         body: "Jersey 20",
         code: "IBM Plex Mono",
       },
