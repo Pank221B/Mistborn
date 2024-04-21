@@ -17,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.DesktopOnly(Component.Breadcrumbs()),
-    Component.MobileOnly(Component.Breadcumbs()),
+    Component.MobileOnly(Component.Breadcrumbs()),
     Component.MobileOnly(Component.Explorer()),
     Component.ArticleTitle(),
     Component.ContentMeta(),
